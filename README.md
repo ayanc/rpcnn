@@ -4,7 +4,7 @@ Copyright (C) 2018, Zhihao Xia and Ayan Chakrabarti
 
 This distribution provides an implementation, along with trained models, for the method described in our paper:
 
-Zhihao Xia and Ayan Chakrabarti, "**[Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising](https://arxiv.org/abs/1806.05229)**", arXiv:1806.05229 [cs.CV], 2018.
+Zhihao Xia and Ayan Chakrabarti, "**[Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising](https://arxiv.org/abs/1806.05229)**", WACV 2020.
 
 
 If you find the code useful for your research, we request that you cite the above paper. Please contact zhihao.xia@wustl.edu with any questions.
